@@ -4,6 +4,7 @@ Proof of Humanity menalini olish uchun
 2 - repo
 3 - repo
 4 - repo
+5 - repo
 
 git remote add origin https://github.com/Muhammadboburshoh/test_uchun.git
 git branch -M main
